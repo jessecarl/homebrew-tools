@@ -2,11 +2,11 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Readyou < Formula
-  desc ""
-  homepage ""
-  url "github.com/jessecarl/readyou"
+  desc "CLI for rendering templates with front matter."
+  homepage "https://github.com/jessecarl/readyou"
+  url "https://github.com/jessecarl/readyou/archive/v0.0.1.tar.gz"
   version "0.0.1"
-  sha256 ""
+  sha256 "09209ee7fba781ab3d677c5468f017c869210757"
 
   depends_on "go" => :build
 
