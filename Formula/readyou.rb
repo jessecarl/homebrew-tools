@@ -5,7 +5,7 @@ class Readyou < Formula
   desc ""
   homepage ""
   url "github.com/jessecarl/readyou"
-  version ""
+  version "0.0.1"
   sha256 ""
 
   depends_on "go" => :build
