@@ -4,9 +4,9 @@
 class Readyou < Formula
   desc "CLI for rendering templates with front matter."
   homepage "https://github.com/jessecarl/readyou"
-  url "https://github.com/jessecarl/readyou/archive/v0.0.1.tar.gz"
-  version "0.0.1"
-  sha256 "d5684e71b8633353b2a53eb8779b9af556c9bef7d9f0e0f136b174e35444a132"
+  url "https://github.com/jessecarl/readyou/archive/v0.0.2.tar.gz"
+  version "v0.0.2"
+  sha256 "df56045ef9120b041b86e304b5ff48ff3dc14e046659eff9b731bc381d4e339d"
 
   depends_on "go" => :build
 
