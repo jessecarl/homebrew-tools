@@ -6,7 +6,7 @@ class Readyou < Formula
   homepage "https://github.com/jessecarl/readyou"
   url "https://github.com/jessecarl/readyou/archive/v0.0.3.tar.gz"
   version "v0.0.3"
-  sha256 "2b3a61578119561cd0dd0bef2300d3d95bc967a8cdf91805969be605a0b7bb91"
+  sha256 "b65548194a5c57bc0009371e253ad620f051415f876d3a94145abb08e38d5bd2"
 
   depends_on "go" => :build
 
